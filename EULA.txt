@@ -1,0 +1,65 @@
+================================================================================
+END-USER LICENSE AGREEMENT (EULA)
+FOR COZY CITY MAYOR (SINGLE-PLAYER 2D PIXEL RPG EDITION)
+================================================================================
+
+IMPORTANT — READ CAREFULLY: This End-User License Agreement ("EULA") is a legal
+agreement between you (either an individual or a single entity, "Player" or
+"You") and Maplewood Valley Interactive / Cozy City Studios ("Licensor") for
+the software product "Cozy City Mayor" (including the 2D Pixel RPG executable,
+CozyOS Mayor Computer simulation, CozyAI subsystem, XInput/DirectInput gamepad
+drivers interface, audio synthesizer, documentation, and associated media,
+collectively the "Software").
+
+By installing, copying, or otherwise using the Software via the Inno Setup
+Installer or standalone executable, You agree to be bound by the terms of this
+EULA. If You do not agree to the terms of this EULA, do not install or use the
+Software.
+
+1. GRANT OF SINGLE-PLAYER LICENSE
+Licensor grants You a personal, non-exclusive, non-transferable, revocable
+license to install and use the Software on any compatible Microsoft Windows
+computer owned or controlled by You solely for personal, single-player
+entertainment and educational purposes.
+
+2. GAMEPLAY & HARDWARE CONTROLLER SUPPORT
+The Software is a 2D single-player pixel RPG and municipal government simulation
+featuring:
+  (a) Mayoral Election & City Hall Desk Computer ("CozyOS") management;
+  (b) Personal Property Tax Bill delivery, Weather Harmonizer control, and Day
+      Type proclamations (Tax Day, Cozy Festival Day, Civic Construction Day,
+      Community Safety Day, and Library Literacy Day);
+  (c) Municipal Employee HR management, Police Incident dispatch, Public Library
+      Book Reader, On-Screen MayorPhone & Daily Schedule, and AI Chief-of-Staff
+      advisory synthesis;
+  (d) Native Microsoft XInput (xinput1_4.dll / xinput9_1_0.dll) and DirectInput8
+      (dinput8.dll / WinMM HID) controller support alongside Keyboard & Mouse.
+
+3. INTELLECTUAL PROPERTY & OWNERSHIP
+All title, ownership rights, and intellectual property rights in and to the
+Software (including but not limited to all C# source modules, pixel art
+renderings, procedural audio synthesizer algorithms, character dialogues, and
+literary volumes in the Maplewood Public Library) are owned by Licensor.
+
+4. LOCAL STORAGE & PRIVACY
+The Software stores single-player save files locally on Your device under
+%LOCALAPPDATA%\CozyCityMayor\savegame.cfg. The Software does not collect,
+transmit, or sell personal telemetry data.
+
+5. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+6. MAYORAL OATH OF COZINESS
+By clicking "I accept the agreement" in the Inno Setup installer, You solemnly
+pledge to govern Maplewood Valley with fairness, read books at the Public
+Library, keep the peace alongside Chief Barnaby and Officer Maple, and never
+follow Cornelius Von Monocle's proposal to impose a 500% tax on warm pastries.
+
+Copyright (c) 2026 Cozy City Studios. All Rights Reserved.
+================================================================================
